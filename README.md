@@ -1577,7 +1577,6 @@ root@MidPC:/home/student/Desktop#
 ```
 ![image](https://github.com/Akashbalakrishnan/PCA-Simple-warp-divergence---Implement-Sum-Reduction./assets/119291768/4a8ce8af-6970-4c8b-8536-496d24138253)
 ![image](https://github.com/Akashbalakrishnan/PCA-Simple-warp-divergence---Implement-Sum-Reduction./assets/119291768/76ddadfc-2390-4f57-97a1-c12d80420952)
-3e8
 ### kernel reduceUnrolling16
 ```
 Password: 
